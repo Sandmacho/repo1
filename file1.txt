@@ -10,3 +10,5 @@ hello world
 this is not a file 
 >>>>>>> Stashed changes
 >>>>>>> branch1
+hello
+
