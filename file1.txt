@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 this is a file
 hello world 
+=======
+<<<<<<< Updated upstream
+this is a file 
+=======
+this is a file
+hello world 
+this is not a file 
+>>>>>>> Stashed changes
+>>>>>>> branch1
